@@ -1,9 +1,8 @@
 # 直连列表
 
 # MyList
-DOMAIN-SUFFIX,13th.tech
-DOMAIN-SUFFIX,423down.com
-DOMAIN-SUFFIX,bokecc.com
+DOMAIN-SUFFIX,brcf.us.kg
+DOMAIN-SUFFIX,chinaz.com
 DOMAIN-SUFFIX,chaipip.com
 DOMAIN-SUFFIX,chinaplay.store
 DOMAIN-SUFFIX,hrtsea.com
@@ -18,7 +17,6 @@ DOMAIN-SUFFIX,zhenguanyu.biz
 DOMAIN-SUFFIX,zhenguanyu.com
 DOMAIN-SUFFIX,snapdrop.net
 DOMAIN-SUFFIX,tebex.io
-DOMAIN-SUFFIX,brcf.us.kg
 
 # CN域名直连(中国|公司|网络)
 DOMAIN-SUFFIX,cn
